@@ -1,12 +1,12 @@
 # fav
 Curated list of fancy websites
 
-## Source
+## sources
 
 - http://siteinspire.net/
 - http://httpster.net/
 
-## Sites (cray -> real)
+## sites (cray -> real)
 
 - http://durimel.io/
 - http://www2.hm.com/en_gb/free-form-campaigns-s03/kenzoxhm.html#inspiration
