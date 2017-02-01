@@ -6,9 +6,11 @@ Curated list of fancy websites
 - http://siteinspire.net/
 - http://httpster.net/
 
-## sites (cray -> real)
+## sites
 
+- http://www.documenta14.de/en/
 - http://useruki.com/
+
 - http://durimel.io/
 - http://www2.hm.com/en_gb/free-form-campaigns-s03/kenzoxhm.html#inspiration
 - http://norgram.co/#/home/
