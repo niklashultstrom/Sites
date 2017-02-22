@@ -8,6 +8,7 @@ Curated list of fancy websites
 
 ## sites
 
+- http://myshards.com/
 - http://www.documenta14.de/en/
 - http://useruki.com/
 
