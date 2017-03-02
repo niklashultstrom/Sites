@@ -3,6 +3,7 @@ Curated list of fancy websites
 
 ## sources
 
+- http://www.koiocollective.com/
 - http://siteinspire.net/
 - http://httpster.net/
 
