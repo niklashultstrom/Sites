@@ -3,12 +3,13 @@ Curated list of fancy websites
 
 ## sources
 
-- http://www.koiocollective.com/
 - http://siteinspire.net/
 - http://httpster.net/
 
 ## sites
 
+- http://www.koiocollective.com/
+- http://pitchstudio.co.nz/
 - https://tossijn.com/
 - http://myshards.com/
 - http://www.documenta14.de/en/
