@@ -5,6 +5,7 @@ Curated list of fancy websites
 
 - http://siteinspire.net/
 - http://httpster.net/
+- http://thegallery.io/
 
 ## Sites
 
