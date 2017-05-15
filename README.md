@@ -9,6 +9,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://interfacelovers.com
 - http://www.koiocollective.com/
 - http://pitchstudio.co.nz/
 - https://tossijn.com/
