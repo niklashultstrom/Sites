@@ -9,6 +9,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://mayicestudio.com/
 - https://villagebooks.co/
 - https://interfacelovers.com
 - http://www.koiocollective.com/
