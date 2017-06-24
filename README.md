@@ -9,6 +9,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://www.residentadvisor.net (brutalist remake)
 - http://mayicestudio.com/
 - https://villagebooks.co/
 - https://interfacelovers.com
