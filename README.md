@@ -9,6 +9,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://dandydiary.de/
 - https://www.residentadvisor.net (brutalist remake)
 - http://mayicestudio.com/
 - https://villagebooks.co/
