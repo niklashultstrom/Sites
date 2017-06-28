@@ -11,6 +11,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://minamishima.com.au/
 - http://dandydiary.de/
 - https://www.residentadvisor.net (brutalist remake)
 - http://mayicestudio.com/
