@@ -11,7 +11,8 @@ Curated list of fancy websites
 
 ## Sites
 
-- https://www.wonderlandmagazine.com/
+- https://noisey.vice.com/
+- https://wonderlandmagazine.com/
 - http://afrika.to/
 - http://special---offer.com/
 - https://minamishima.com.au/
