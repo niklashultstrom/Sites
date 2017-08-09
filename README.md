@@ -11,6 +11,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://intmagic.com/
 - https://omsetype.co/
 - https://noisey.vice.com/
 - https://wonderlandmagazine.com/
