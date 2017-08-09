@@ -26,7 +26,7 @@ Curated list of fancy websites
 - https://tossijn.com/
 - http://myshards.com/
 - http://www.documenta14.de/en/
-- http://useruki.com/
+- http://useruki.com/ (https://web.archive.org/web/20170716192252/http://useruki.com/)
 - http://durimel.io/
 - http://www2.hm.com/en_gb/free-form-campaigns-s03/kenzoxhm.html#inspiration
 - http://norgram.co/#/home/
