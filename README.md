@@ -11,6 +11,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://radio.garden/
 - https://trauminc.com/
 - https://intmagic.com/
 - https://omsetype.co/
