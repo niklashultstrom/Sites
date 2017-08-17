@@ -11,6 +11,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://www.anothermanmag.com/
 - http://radio.garden/
 - https://trauminc.com/
 - https://intmagic.com/
