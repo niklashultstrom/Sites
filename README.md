@@ -11,6 +11,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://etudes-studio.com/
 - http://stormfashion.dk/
 - http://www.anothermanmag.com/
 - http://radio.garden/
