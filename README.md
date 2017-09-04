@@ -11,7 +11,6 @@ Curated list of fancy websites
 
 ## Sites
 
-- https://www.sitra.fi/en/#
 - http://etudes-studio.com/
 - http://stormfashion.dk/
 - http://www.anothermanmag.com/
