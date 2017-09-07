@@ -8,6 +8,7 @@ Curated list of fancy websites
 - http://thegallery.io/
 - https://thefwa.com/
 - https://www.awwwards.com/
+- https://pttrns.com
 
 ## Sites
 
