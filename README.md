@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://alexhunting.co.uk/
 - http://etudes-studio.com/
 - http://stormfashion.dk/
 - http://www.anothermanmag.com/
