@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://satellites.co.nz/
 - http://alexhunting.co.uk/
 - http://etudes-studio.com/
 - http://stormfashion.dk/
