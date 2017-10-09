@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://www.technologyreview.com/
 - http://www.grandemaison.de/
 - http://satellites.co.nz/
 - http://alexhunting.co.uk/
