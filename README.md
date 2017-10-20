@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://placepress.com/
 - https://www.technologyreview.com/
 - http://www.grandemaison.de/
 - http://satellites.co.nz/
