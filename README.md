@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://www.tristanbagot.com/
 - https://postpost.works/
 - https://placepress.com/
 - https://www.technologyreview.com/
