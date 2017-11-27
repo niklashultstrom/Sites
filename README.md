@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://viennesemodernism2018.info/
 - http://www.tristanbagot.com/
 - https://postpost.works/
 - https://placepress.com/
