@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://heydays.no/
 - http://www.hopesandfears.com/
 - https://viennesemodernism2018.info/
 - http://www.tristanbagot.com/
