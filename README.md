@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://www.slamjamsocialism.com/
 - https://heydays.no/
 - http://www.hopesandfears.com/
 - https://viennesemodernism2018.info/
