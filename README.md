@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://fonshickmann.com
 - https://www.antonioli.eu
 - https://www.slamjamsocialism.com/
 - https://heydays.no/
