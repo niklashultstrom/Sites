@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://blinkvideo.de/
 - https://fonshickmann.com
 - https://www.antonioli.eu
 - https://www.slamjamsocialism.com/
