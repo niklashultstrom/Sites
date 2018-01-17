@@ -12,6 +12,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://www.bloomberg.com/features/bitcoin-bulls-bears/
 - https://blinkvideo.de/
 - https://fonshickmann.com
 - https://www.antonioli.eu
