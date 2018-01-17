@@ -10,6 +10,7 @@ Curated list of fancy websites
 - https://thefwa.com/
 - https://www.awwwards.com/
 - https://pttrns.com
+- http://maxibestof.one/app/
 
 ## Sites
 
