@@ -5,6 +5,7 @@ Curated list of fancy websites
 
 - http://siteinspire.net/
 - http://httpster.net/
+- https://hoverstat.es
 - http://thegallery.io/
 - https://thefwa.com/
 - https://www.awwwards.com/
