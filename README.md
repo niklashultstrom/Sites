@@ -11,6 +11,7 @@ Curated list of fancy websites
 - https://www.awwwards.com/
 - https://pttrns.com
 - http://maxibestof.one/app/
+- http://klikkentheke.com/
 
 ## Sites
 
