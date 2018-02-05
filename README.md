@@ -15,6 +15,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://jnswndlf.com/
 - https://www.bloomberg.com/features/bitcoin-bulls-bears/
 - https://blinkvideo.de/
 - https://fonshickmann.com
