@@ -15,6 +15,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- https://googlefonts.github.io/korean/
 - http://wasserkompetenz.ch/
 - http://jnswndlf.com/
 - https://www.bloomberg.com/features/bitcoin-bulls-bears/
