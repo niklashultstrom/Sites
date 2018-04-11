@@ -1,5 +1,5 @@
 # Fav
-Curated list of fancy websites
+Curated list
 
 ## Sources
 
