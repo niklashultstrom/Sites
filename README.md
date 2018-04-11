@@ -15,6 +15,7 @@ Curated list of fancy websites
 
 ## Sites
 
+- http://emmanichols.co.uk/
 - https://googlefonts.github.io/korean/
 - http://wasserkompetenz.ch/
 - http://jnswndlf.com/
