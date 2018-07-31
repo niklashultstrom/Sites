@@ -15,6 +15,7 @@ Curated list
 
 ## Sites
 
+- https://gigibarcelona.com/
 - https://macreative.com/
 - https://belowthesurface.amsterdam/en
 - https://onuniverse.com/
