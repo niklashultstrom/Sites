@@ -15,6 +15,7 @@ Curated list
 
 ## Sites
 
+- https://hardlyeverything.com/
 - https://032c.com/
 - http://molonglogroup.com.au/tallbuildings/
 - https://aphextwin.warp.net/
