@@ -15,6 +15,7 @@ Curated list
 
 ## Sites
 
+- http://www.pobzeznik.net/
 - https://hardlyeverything.com/
 - https://032c.com/
 - http://molonglogroup.com.au/tallbuildings/
@@ -87,3 +88,10 @@ Curated list
 - https://verygoods.co/
 - http://www.wnyc.org/shows/heresthething
 - http://diaart.org/
+
+## Producers
+
+- https://marco.land/
+- https://jon-kyle.com/
+- https://puckey.studio/
+- https://intmagic.com/
