@@ -23,6 +23,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- https://ghostly.com/
 - http://www.pobzeznik.net/
 - https://hardlyeverything.com/
 - https://032c.com/
