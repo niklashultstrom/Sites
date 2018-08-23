@@ -1,7 +1,7 @@
-# Fav
-Curated list
+# The Web List
+Curated list of interesting sites and its producers by Niklas Hultström
 
-## Sources
+## Publishers
 
 - http://siteinspire.net/
 - http://httpster.net/
@@ -12,6 +12,14 @@ Curated list
 - https://pttrns.com
 - http://maxibestof.one/app/
 - http://klikkentheke.com/
+
+## Producers
+
+- https://marco.land/
+- https://jon-kyle.com/
+- https://puckey.studio/
+- https://intmagic.com/
+
 
 ## Sites
 
@@ -88,10 +96,3 @@ Curated list
 - https://verygoods.co/
 - http://www.wnyc.org/shows/heresthething
 - http://diaart.org/
-
-## Producers
-
-- https://marco.land/
-- https://jon-kyle.com/
-- https://puckey.studio/
-- https://intmagic.com/
