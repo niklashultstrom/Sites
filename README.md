@@ -23,6 +23,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- https://www.dejeugdvantegenwoordig.com/
 - https://ghostly.com/
 - http://www.pobzeznik.net/
 - https://hardlyeverything.com/
