@@ -1,5 +1,5 @@
 # The Web List
-Curated list of interesting sites and its producers by Niklas Hultström
+A collection of interesting sites and its producers curated by Niklas Hultström
 
 ## Publishers
 
