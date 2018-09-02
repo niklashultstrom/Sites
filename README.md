@@ -12,6 +12,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 - https://pttrns.com
 - http://maxibestof.one/app/
 - http://klikkentheke.com/
+- https://www.webdesignmuseum.org/
 
 ## Producers
 
