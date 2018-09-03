@@ -24,6 +24,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- https://folder.studio/morphosis
 - https://www.moma.org/
 - https://jisooeom.com/
 - https://www.dejeugdvantegenwoordig.com/
