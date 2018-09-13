@@ -23,8 +23,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 
 ## Sites
-
-- https://earth.nullschool.net/#current/wind/surface/level/orthographic=-34.55,34.98,600
+- https://earth.nullschool.net/
 - https://www.wastberg.com/
 - https://folder.studio/morphosis
 - https://www.moma.org/
