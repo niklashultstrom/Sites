@@ -23,6 +23,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 
 ## Sites
+- https://www.thomasdemonaco.com/
 - http://hlebozavod9.ru/ (the map)
 - https://earth.nullschool.net/
 - https://www.wastberg.com/
