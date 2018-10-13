@@ -16,6 +16,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Producers
 
+- http://kaskadproject.com/
 - https://marco.land/
 - https://jon-kyle.com/
 - https://puckey.studio/
@@ -23,6 +24,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 
 ## Sites
+- https://sheckwes.com/
 - http://ayearofconsciouspractice.com
 - https://www.thomasdemonaco.com/
 - http://hlebozavod9.ru/ (the map)
