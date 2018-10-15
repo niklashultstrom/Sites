@@ -24,6 +24,8 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 
 ## Sites
+
+- https://eastofborneo.org/
 - https://sheckwes.com/
 - http://ayearofconsciouspractice.com
 - https://www.thomasdemonaco.com/
