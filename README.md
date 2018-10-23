@@ -1,4 +1,4 @@
-# The Web List
+# Listed
 A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Publishers
@@ -25,6 +25,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- http://emilievizcano.com/
 - https://eastofborneo.org/
 - https://sheckwes.com/
 - http://ayearofconsciouspractice.com
