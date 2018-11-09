@@ -25,6 +25,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- http://weirdcore.tv/
 - http://emilievizcano.com/
 - https://eastofborneo.org/
 - https://sheckwes.com/
