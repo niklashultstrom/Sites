@@ -16,7 +16,6 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Producers
 
-- http://kaskadproject.com/
 - https://marco.land/
 - https://jon-kyle.com/
 - https://puckey.studio/
@@ -25,6 +24,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- http://kaskadproject.com/
 - http://weirdcore.tv/
 - http://emilievizcano.com/
 - https://eastofborneo.org/
