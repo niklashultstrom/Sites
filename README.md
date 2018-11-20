@@ -23,7 +23,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 
 ## Sites
-
+- http://pitchfestival.com.au/
 - http://kaskadproject.com/
 - http://weirdcore.tv/
 - http://emilievizcano.com/
