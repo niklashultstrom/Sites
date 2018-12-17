@@ -23,6 +23,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 
 ## Sites
+- https://56.digital/
 - http://pitchfestival.com.au/
 - http://kaskadproject.com/
 - http://weirdcore.tv/
