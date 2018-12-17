@@ -23,6 +23,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 
 ## Sites
+- https://wallriss.ch
 - https://56.digital/
 - http://pitchfestival.com.au/
 - http://kaskadproject.com/
