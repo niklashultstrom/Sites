@@ -23,6 +23,8 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 
 ## Sites
+
+- https://florianmarkl.com
 - https://nonverbalclub.pt/
 - https://wallriss.ch
 - https://56.digital/
