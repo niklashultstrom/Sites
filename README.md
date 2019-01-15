@@ -24,9 +24,10 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
-- https://florianmarkl.com
+- http://stefanietam.com/
+- https://florianmarkl.com/
 - https://nonverbalclub.pt/
-- https://wallriss.ch
+- https://wallriss.ch/
 - https://56.digital/
 - http://pitchfestival.com.au/
 - http://kaskadproject.com/
