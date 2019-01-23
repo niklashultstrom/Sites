@@ -24,6 +24,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- https://canary---yellow.com/
 - http://yhsong.com/
 - http://stefanietam.com/
 - https://florianmarkl.com/
