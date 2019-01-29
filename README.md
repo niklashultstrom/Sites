@@ -24,6 +24,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- https://whitney.org/
 - https://iscp-nyc.org/
 - https://americanmillenni.al/
 - https://canary---yellow.com/
