@@ -16,6 +16,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Producers
 
+- https://www.bloomberg.com/europe
 - https://marco.land/
 - https://jon-kyle.com/
 - https://puckey.studio/
