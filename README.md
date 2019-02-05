@@ -1,4 +1,4 @@
-# Websites
+# Sites
 
 A collection of sites and its producers, curated by Niklas Hultström.
 
