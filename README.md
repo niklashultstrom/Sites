@@ -1,4 +1,5 @@
-# Listed
+# Websites
+
 A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Publishers
