@@ -26,6 +26,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- https://maps.fredperryxrafsimons.com
 - http://erichu.info/
 - http://birdbook.org/
 - http://karalevich.com/
