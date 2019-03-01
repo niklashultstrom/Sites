@@ -17,6 +17,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Producers
 
+- http://www.mergrim.net/en/
 - https://www.bloomberg.com/europe
 - https://marco.land/
 - https://jon-kyle.com/
