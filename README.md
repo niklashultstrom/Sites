@@ -26,6 +26,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- https://www.tomorrowbureau.io/
 - https://maps.fredperryxrafsimons.com
 - http://erichu.info/
 - http://birdbook.org/
@@ -101,7 +102,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 - http://special---offer.com/
 - https://minamishima.com.au/
 - http://dandydiary.de/
-- https://www.residentadvisor.net (brutalist remake)
+- https://www.residentadvisor.net
 - http://mayicestudio.com/
 - https://villagebooks.co/
 - https://interfacelovers.com
