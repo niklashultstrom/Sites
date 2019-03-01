@@ -27,6 +27,7 @@ A collection of sites and its producers, curated by Niklas Hultström.
 
 ## Sites
 
+- https://s-i-l-o.fr/
 - https://www.tomorrowbureau.io/
 - https://maps.fredperryxrafsimons.com
 - http://erichu.info/
