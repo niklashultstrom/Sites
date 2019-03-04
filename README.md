@@ -19,7 +19,6 @@ Curated by Niklas Hultström.
 ## Producers
 
 - http://www.mergrim.net/en/
-- https://www.bloomberg.com/europe
 - https://marco.land/
 - https://jon-kyle.com/
 - https://puckey.studio/
@@ -43,6 +42,7 @@ Curated by Niklas Hultström.
 - http://yhsong.com/
 - http://stefanietam.com/
 - https://florianmarkl.com/
+- https://www.bloomberg.com/europe
 - https://nonverbalclub.pt/
 - https://wallriss.ch/
 - https://56.digital/
