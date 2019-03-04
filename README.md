@@ -25,6 +25,7 @@ Curated by Niklas Hultström.
 
 ## Sites
 
+- http://dinamostandards.com
 - https://www.rekki.com/ + https://www.rekki.com/lights-out/
 - https://www.concrete.ca/
 - http://www.mergrim.net/en/
