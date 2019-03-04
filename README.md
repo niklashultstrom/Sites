@@ -18,15 +18,14 @@ Curated by Niklas Hultström.
 
 ## Producers
 
-- http://www.mergrim.net/en/
 - https://marco.land/
 - https://jon-kyle.com/
 - https://puckey.studio/
 - https://intmagic.com/
 
-
 ## Sites
 
+- http://www.mergrim.net/en/
 - http://www.mergrim.net/en/
 - https://s-i-l-o.fr/
 - https://www.tomorrowbureau.io/
