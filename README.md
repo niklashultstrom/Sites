@@ -25,7 +25,7 @@ Curated by Niklas Hultström.
 
 ## Sites
 
-- https://www.rekki.com/
+- https://www.rekki.com/ + https://www.rekki.com/lights-out/
 - https://www.concrete.ca/
 - http://www.mergrim.net/en/
 - https://s-i-l-o.fr/
