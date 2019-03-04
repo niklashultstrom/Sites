@@ -1,6 +1,7 @@
 # Sites
 
-A collection of sites and its producers, curated by Niklas Hultström.
+A collection of sites and its producers. 
+Curated by Niklas Hultström.
 
 ## Publishers
 
