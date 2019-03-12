@@ -25,6 +25,7 @@ Curated by Niklas Hultström.
 
 ## Sites
 
+- http://palma.global
 - http://dia.tv/
 - http://dinamostandards.com
 - https://www.rekki.com/ + https://www.rekki.com/lights-out/
