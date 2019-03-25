@@ -25,6 +25,7 @@ Curated by Niklas Hultström.
 
 ## Sites
 
+- https://www.nts.live/radio
 - http://palma.global
 - http://dia.tv/
 - http://dinamostandards.com
