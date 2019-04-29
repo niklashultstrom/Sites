@@ -2,7 +2,7 @@
 
 A collection of sites and producers.
 
-## Publishers
+## Other publishers
 
 - http://siteinspire.net/
 - http://httpster.net/
