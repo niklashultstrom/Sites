@@ -1,6 +1,6 @@
 # Sites
 
-A collection of sites and its producers.
+A collection of sites and producers.
 
 ## Publishers
 
