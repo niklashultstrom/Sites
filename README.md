@@ -24,6 +24,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://openai.com/blog/emergent-tool-use/
 - https://hahahahahahahahahahahahahaha.com/
 - http://dreamlaser.ru/contacts
 - https://radimpesko.com/fonts/union
