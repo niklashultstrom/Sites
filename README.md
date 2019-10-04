@@ -24,6 +24,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://chevalvert.fr/fr/
 - http://www.metavari.com/
 - https://openai.com/blog/emergent-tool-use/
 - https://hahahahahahahahahahahahahaha.com/
