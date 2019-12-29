@@ -24,6 +24,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://sqirlla.com/
 - http://www.andrewherzog.com/
 - https://chevalvert.fr/fr/
 - http://www.metavari.com/
