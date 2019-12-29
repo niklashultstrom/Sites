@@ -15,6 +15,10 @@ A collection of sites and producers.
 - http://klikkentheke.com/
 - https://www.webdesignmuseum.org/
 
+## RIP
+
+- http://brutalistwebsites.com/
+
 ## Producers
 
 - https://marco.land/
