@@ -28,6 +28,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://the-materials.info/
 - http://www.tarkankaya.com/
 - https://www.cavempt.com/
 - https://sqirlla.com/
