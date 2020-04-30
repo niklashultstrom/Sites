@@ -28,6 +28,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://verygoodfilms.co/
 - https://passionevino.co.uk/
 - https://virtuaal.kunstihoone.ee/en
 - http://www.mgiesser.com/
