@@ -28,6 +28,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://stripe.com/docs/api
 - http://niklasrosen.se/
 - https://verygoodfilms.co/
 - https://passionevino.co.uk/
