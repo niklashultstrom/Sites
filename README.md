@@ -29,6 +29,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://thecreativeindependent.com/people/
 - https://athletics.trauminc.com/jpg-collection
 - https://www.oobject.com/
 - https://fp01.eu/
