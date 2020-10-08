@@ -29,6 +29,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://nymag.com/
 - https://www.techmeme.com/
 - https://thecreativeindependent.com/people/
 - https://athletics.trauminc.com/jpg-collection
