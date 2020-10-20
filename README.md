@@ -29,6 +29,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://azumbrunnen.me/
 - https://nymag.com/
 - https://www.techmeme.com/
 - https://thecreativeindependent.com/people/
