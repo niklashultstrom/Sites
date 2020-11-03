@@ -21,7 +21,6 @@ A collection of sites and producers.
 
 ## Producers
 
-- http://tilde.town/
 - https://marco.land/
 - https://jon-kyle.com/
 - https://puckey.studio/
@@ -29,6 +28,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- http://tilde.town/
 - https://azumbrunnen.me/
 - https://nymag.com/
 - https://www.techmeme.com/
