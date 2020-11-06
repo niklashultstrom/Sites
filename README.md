@@ -28,6 +28,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.kopiko.nz/
 - https://www.lacma.org/
 - http://tilde.town/
 - https://azumbrunnen.me/
