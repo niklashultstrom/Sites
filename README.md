@@ -28,6 +28,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.taschen.com/
 - http://matterof.online/
 - https://fonts.floriankarsten.com/
 - https://www.kopiko.nz/
