@@ -28,6 +28,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://klim.co.nz/
 - https://isolarii.com/
 - https://www.taschen.com/
 - http://matterof.online/
