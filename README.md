@@ -14,6 +14,7 @@ A collection of sites and producers.
 - http://maxibestof.one/app/
 - http://klikkentheke.com/
 - https://www.webdesignmuseum.org/
+- https://loadmo.re/
 
 ## RIP
 
