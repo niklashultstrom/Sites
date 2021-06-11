@@ -29,6 +29,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.eduardodelfraile.com/
 - https://klim.co.nz/
 - https://isolarii.com/
 - https://www.taschen.com/
