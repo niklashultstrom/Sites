@@ -31,7 +31,8 @@ A collection of sites and producers.
 
 ## Sites
 
-- nothing.tech
+- https://newmodels.io/
+- https://nothing.tech
 - https://www.nytco.com/
 - https://www.eduardodelfraile.com/
 - https://klim.co.nz/
