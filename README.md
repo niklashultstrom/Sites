@@ -28,9 +28,11 @@ A collection of sites and producers.
 - https://intmagic.com/
 - https://benlongdendesign.co.uk/
 - https://erno.works/
+- https://www.joshuakaplan.com/
 
 ## Sites
 
+- https://www.joshuakaplan.com/
 - https://newmodels.io/
 - https://nothing.tech
 - https://www.nytco.com/
