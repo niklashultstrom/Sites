@@ -34,6 +34,8 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://virgilabloh.com/postmodern/
+- https://www.itsnicethat.com/
 - https://one-is.com/
 - https://www.fwb.help/
 - https://www.oculus.com/
