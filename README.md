@@ -34,6 +34,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://arngren.net/
 - https://solar.lowtechmagazine.com/
 - https://virgilabloh.com/postmodern/
 - https://www.itsnicethat.com/
