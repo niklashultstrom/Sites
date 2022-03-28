@@ -34,6 +34,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://napopeople.com/
 - https://www.bt.dk/
 - https://arngren.net/
 - https://solar.lowtechmagazine.com/
