@@ -36,6 +36,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://lennartlahuis.net/
 - https://napopeople.com/
 - https://www.bt.dk/
 - https://arngren.net/
