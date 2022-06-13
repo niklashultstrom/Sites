@@ -36,6 +36,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://skyh1.net/
 - https://july.fund/
 - https://lennartlahuis.net/
 - https://napopeople.com/
