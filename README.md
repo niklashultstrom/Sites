@@ -36,6 +36,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://ceromagazine.com/
 - https://skyh1.net/
 - https://july.fund/
 - https://lennartlahuis.net/
