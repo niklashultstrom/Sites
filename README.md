@@ -23,6 +23,7 @@ A collection of sites and producers.
 
 ## Producers
 
+- https://tdingsun.github.io/reading-machines/
 - https://areyou.okok.services/
 - https://marco.land/
 - https://jon-kyle.com/
