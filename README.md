@@ -23,9 +23,6 @@ A collection of sites and producers.
 
 ## Producers
 
-- https://public-library.online/
-- https://tdingsun.github.io/reading-machines/
-- https://areyou.okok.services/
 - https://marco.land/
 - https://jon-kyle.com/
 - https://puckey.studio/
@@ -38,6 +35,9 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://public-library.online/
+- https://tdingsun.github.io/reading-machines/
+- https://www.madethought.com/
 - https://ceromagazine.com/
 - https://skyh1.net/
 - https://july.fund/
@@ -47,6 +47,7 @@ A collection of sites and producers.
 - https://arngren.net/
 - https://solar.lowtechmagazine.com/
 - https://virgilabloh.com/postmodern/
+- https://areyou.okok.services/
 - https://www.itsnicethat.com/
 - https://one-is.com/
 - https://www.fwb.help/
