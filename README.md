@@ -23,6 +23,7 @@ A collection of sites and producers.
 
 ## Producers
 
+- https://public-library.online/
 - https://tdingsun.github.io/reading-machines/
 - https://areyou.okok.services/
 - https://marco.land/
