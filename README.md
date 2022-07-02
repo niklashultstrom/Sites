@@ -35,6 +35,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.givenchy.com/
 - https://graphicthoughtfacility.com
 - https://public-library.online/
 - https://tdingsun.github.io/reading-machines/
