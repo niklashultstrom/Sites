@@ -35,6 +35,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://goodzones.com/
 - https://se.diesel.com/
 - https://www.givenchy.com/
 - https://graphicthoughtfacility.com
