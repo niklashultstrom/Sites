@@ -35,6 +35,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://normadesign.it/
 - https://www.maisonmargiela.com/
 - http://neurealm.net/
 - https://goodzones.com/
