@@ -35,6 +35,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://vol.co/
 - https://special.fish/
 - https://normadesign.it/
 - https://www.maisonmargiela.com/
