@@ -36,6 +36,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://smuss.studio/
 - https://denimtears.com/se/
 - http://adrienrovero.com/
 - https://vol.co/
