@@ -23,6 +23,7 @@ A collection of sites and producers.
 
 ## Producers
 
+- https://compactmag.com/
 - https://www.samara.com/
 - https://marco.land/
 - https://jon-kyle.com/
