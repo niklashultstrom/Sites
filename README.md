@@ -23,8 +23,6 @@ A collection of sites and producers.
 
 ## Producers
 
-- https://compactmag.com/
-- https://www.samara.com/
 - https://marco.land/
 - https://jon-kyle.com/
 - https://puckey.studio/
@@ -37,6 +35,8 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.samara.com/
+- https://compactmag.com/
 - https://smuss.studio/
 - https://denimtears.com/se/
 - http://adrienrovero.com/
