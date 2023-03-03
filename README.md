@@ -16,6 +16,7 @@ A collection of sites and producers.
 - https://www.webdesignmuseum.org/
 - https://loadmo.re/
 - https://www.are.na/lorcan-blake/waeb
+- https://uijar.com/
 
 ## RIP
 
