@@ -36,6 +36,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.nylon.com/
 - https://bam-works.com/moments
 - http://www.problemata.org/en/
 - https://www.samara.com/
