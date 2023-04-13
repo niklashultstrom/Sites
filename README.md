@@ -17,6 +17,7 @@ A collection of sites and producers.
 - https://loadmo.re/
 - https://www.are.na/lorcan-blake/waeb
 - https://uijar.com/
+- https://godly.website/
 
 ## RIP
 
@@ -37,6 +38,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://trendlist.org/
 - https://mikematas.com/
 - https://www.nylon.com/
 - https://bam-works.com/moments
