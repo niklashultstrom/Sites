@@ -38,6 +38,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://agi-open.sons.co.nz/
 - https://kizu.dev/anchor-positioning-experiments/
 - https://tome.app/
 - https://dbi-cc.com/
