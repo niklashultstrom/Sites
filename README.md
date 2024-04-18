@@ -38,6 +38,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.malaproject.com/
 - https://hek.ch/en/
 - https://www.hellomuller.com/
 - https://www.jackywinter.com/
