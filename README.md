@@ -18,6 +18,7 @@ A collection of sites and producers.
 - https://www.are.na/lorcan-blake/waeb
 - https://uijar.com/
 - https://godly.website/
+- https://www.footer.design/
 
 ## RIP
 
