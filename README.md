@@ -39,6 +39,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://brunoarizio.com/
 - https://euro--pack.com/
 - https://www.kiramaerz.com/
 - https://www.malaproject.com/
