@@ -39,6 +39,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- http://durimel.co/
 - https://divinalingua.it/en
 - https://musicforprogramming.net/
 - https://brunoarizio.com/
