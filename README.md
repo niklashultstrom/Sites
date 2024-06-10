@@ -26,6 +26,7 @@ A collection of sites and producers.
 
 ## Producers
 
+- https://www.ibelick.com/
 - https://marco.land/
 - https://jon-kyle.com/
 - https://puckey.studio/
