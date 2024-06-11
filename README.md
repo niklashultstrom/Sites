@@ -40,6 +40,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.kolibri.is/
 - https://19-86.fr/
 - http://durimel.co/
 - https://divinalingua.it/en
