@@ -40,6 +40,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://smlxl.company/
 - https://productiontype.com/
 - https://www.kolibri.is/
 - https://19-86.fr/
