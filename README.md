@@ -40,6 +40,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://heystudio.es/
 - https://smlxl.company/
 - https://productiontype.com/
 - https://www.kolibri.is/
