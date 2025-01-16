@@ -40,6 +40,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.semafor.com/
 - https://heystudio.es/
 - https://smlxl.company/
 - https://productiontype.com/
