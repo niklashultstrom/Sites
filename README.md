@@ -40,6 +40,7 @@ A collection of sites and producers.
 
 ## Sites
 
+- https://www.beatsinspace.net/
 - https://www.mcmaster.com/
 - https://leibal.com/
 - https://www.semafor.com/
